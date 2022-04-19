@@ -6,3 +6,4 @@ l = []
 for i in range(len(P)):
     l.append(a[P[i]])
 print("".join(l))
+
